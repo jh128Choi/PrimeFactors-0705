@@ -1,0 +1,3 @@
+## Prime Factors
+---
+prime factor
